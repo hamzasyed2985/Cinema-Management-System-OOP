@@ -3,3 +3,5 @@ This Project is based on Cinema Management System using a graphical user interfa
 The program also includes several inner classes that handle specific functionalities. For example, the WatchMovie class displays a grid of movie thumbnails and allows the user to watch a selected movie by launching a video player. The changeMovies class allows the user to change the movies being shown by replacing them with a new set of movies. The replaceMovies class provides a selection interface for replacing a specific movie with another one. There are also methods for handling seat bookings and displaying seat availability.The Seats Class is used that displays the seats to user and only Gets Selected When User Enters The Name in Name Textfield.
 This Program used different Termminologies of Java Programming Such as GUI, Polymorphism, File Handling , Creating and Handling Objects,Strings etc.
 TO View the Working of The Program .Click on Link Below.
+https://github.com/hamzasyed2985/Cinema-Management-System-OOP/assets/105115389/d855af80-554b-4b58-9a34-b50a6a44456a
+
